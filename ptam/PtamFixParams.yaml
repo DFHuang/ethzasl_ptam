@@ -32,10 +32,10 @@ MaxStereoInitLoops: 4
 AutoInitPixel: 20
 AutoInit: True
 # --- bluefox - low distort lens  --- 
-Cam_fx: 0.495302
-Cam_fy: 0.659592
-Cam_cx: 0.477011
-Cam_cy:  0.507887
-Cam_s: 0.912428
+Cam_fx: 0.480463
+Cam_fy: 0.639925
+Cam_cx: 0.487615
+Cam_cy:  0.499465
+Cam_s: 0.909567
 # -----------------------------------
 
